@@ -1,0 +1,12 @@
+spring:
+  security:
+    user:
+      name: user
+      password: user
+server:
+  port: 9000
+logging:
+  file:
+    name: log
+  level:
+    root: warn
